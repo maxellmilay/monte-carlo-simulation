@@ -1,1 +1,1 @@
-# monte-carlo-simulation
+# Monte Carlo Simulation
